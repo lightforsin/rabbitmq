@@ -1,0 +1,13 @@
+D:\Learning\RabbitMqTest\ReceiveLogs\bin\Debug\netcoreapp3.1\ReceiveLogs.exe
+D:\Learning\RabbitMqTest\ReceiveLogs\obj\Debug\netcoreapp3.1\ReceiveLogs.AssemblyInfoInputs.cache
+D:\Learning\RabbitMqTest\ReceiveLogs\obj\Debug\netcoreapp3.1\ReceiveLogs.AssemblyInfo.cs
+D:\Learning\RabbitMqTest\ReceiveLogs\bin\Debug\netcoreapp3.1\ReceiveLogs.deps.json
+D:\Learning\RabbitMqTest\ReceiveLogs\bin\Debug\netcoreapp3.1\ReceiveLogs.runtimeconfig.json
+D:\Learning\RabbitMqTest\ReceiveLogs\bin\Debug\netcoreapp3.1\ReceiveLogs.runtimeconfig.dev.json
+D:\Learning\RabbitMqTest\ReceiveLogs\bin\Debug\netcoreapp3.1\ReceiveLogs.dll
+D:\Learning\RabbitMqTest\ReceiveLogs\bin\Debug\netcoreapp3.1\ReceiveLogs.pdb
+D:\Learning\RabbitMqTest\ReceiveLogs\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\Learning\RabbitMqTest\ReceiveLogs\obj\Debug\netcoreapp3.1\ReceiveLogs.csprojAssemblyReference.cache
+D:\Learning\RabbitMqTest\ReceiveLogs\obj\Debug\netcoreapp3.1\ReceiveLogs.csproj.CopyComplete
+D:\Learning\RabbitMqTest\ReceiveLogs\obj\Debug\netcoreapp3.1\ReceiveLogs.dll
+D:\Learning\RabbitMqTest\ReceiveLogs\obj\Debug\netcoreapp3.1\ReceiveLogs.pdb

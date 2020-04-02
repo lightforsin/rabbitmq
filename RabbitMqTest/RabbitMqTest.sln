@@ -3,9 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29905.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Send", "Send\Send.csproj", "{A212FB30-4DF7-44C6-AA8C-FF514805C422}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Send", "Send\Send.csproj", "{A212FB30-4DF7-44C6-AA8C-FF514805C422}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Receive", "Receive\Receive.csproj", "{F81A5E17-2BD9-4B4D-8DE7-1088647515E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Receive", "Receive\Receive.csproj", "{F81A5E17-2BD9-4B4D-8DE7-1088647515E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewTask", "NewTask\NewTask.csproj", "{93D81DAF-0C4E-4671-9F79-78D3CF61BC84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Worker", "Worker\Worker.csproj", "{E533A0ED-5487-44A4-A2AC-AA380DBC2279}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmitLog", "EmitLog\EmitLog.csproj", "{2A830F34-284B-479C-80D2-F079AF28F2EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReceiveLogs", "ReceiveLogs\ReceiveLogs.csproj", "{C427A648-8483-4D8D-BEC8-0059AADD4142}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +29,22 @@ Global
 		{F81A5E17-2BD9-4B4D-8DE7-1088647515E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F81A5E17-2BD9-4B4D-8DE7-1088647515E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F81A5E17-2BD9-4B4D-8DE7-1088647515E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93D81DAF-0C4E-4671-9F79-78D3CF61BC84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93D81DAF-0C4E-4671-9F79-78D3CF61BC84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93D81DAF-0C4E-4671-9F79-78D3CF61BC84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93D81DAF-0C4E-4671-9F79-78D3CF61BC84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E533A0ED-5487-44A4-A2AC-AA380DBC2279}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E533A0ED-5487-44A4-A2AC-AA380DBC2279}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E533A0ED-5487-44A4-A2AC-AA380DBC2279}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E533A0ED-5487-44A4-A2AC-AA380DBC2279}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A830F34-284B-479C-80D2-F079AF28F2EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A830F34-284B-479C-80D2-F079AF28F2EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A830F34-284B-479C-80D2-F079AF28F2EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A830F34-284B-479C-80D2-F079AF28F2EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C427A648-8483-4D8D-BEC8-0059AADD4142}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C427A648-8483-4D8D-BEC8-0059AADD4142}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C427A648-8483-4D8D-BEC8-0059AADD4142}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C427A648-8483-4D8D-BEC8-0059AADD4142}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

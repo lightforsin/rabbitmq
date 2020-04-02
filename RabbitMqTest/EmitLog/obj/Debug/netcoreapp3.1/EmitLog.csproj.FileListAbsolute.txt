@@ -1,0 +1,13 @@
+D:\Learning\RabbitMqTest\EmitLog\bin\Debug\netcoreapp3.1\EmitLog.exe
+D:\Learning\RabbitMqTest\EmitLog\obj\Debug\netcoreapp3.1\EmitLog.AssemblyInfoInputs.cache
+D:\Learning\RabbitMqTest\EmitLog\obj\Debug\netcoreapp3.1\EmitLog.AssemblyInfo.cs
+D:\Learning\RabbitMqTest\EmitLog\bin\Debug\netcoreapp3.1\EmitLog.deps.json
+D:\Learning\RabbitMqTest\EmitLog\bin\Debug\netcoreapp3.1\EmitLog.runtimeconfig.json
+D:\Learning\RabbitMqTest\EmitLog\bin\Debug\netcoreapp3.1\EmitLog.runtimeconfig.dev.json
+D:\Learning\RabbitMqTest\EmitLog\bin\Debug\netcoreapp3.1\EmitLog.dll
+D:\Learning\RabbitMqTest\EmitLog\bin\Debug\netcoreapp3.1\EmitLog.pdb
+D:\Learning\RabbitMqTest\EmitLog\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\Learning\RabbitMqTest\EmitLog\obj\Debug\netcoreapp3.1\EmitLog.csproj.CopyComplete
+D:\Learning\RabbitMqTest\EmitLog\obj\Debug\netcoreapp3.1\EmitLog.dll
+D:\Learning\RabbitMqTest\EmitLog\obj\Debug\netcoreapp3.1\EmitLog.pdb
+D:\Learning\RabbitMqTest\EmitLog\obj\Debug\netcoreapp3.1\EmitLog.csprojAssemblyReference.cache

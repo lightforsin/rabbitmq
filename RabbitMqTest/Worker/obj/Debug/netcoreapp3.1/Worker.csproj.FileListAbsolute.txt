@@ -1,0 +1,13 @@
+D:\Learning\RabbitMqTest\Worker\bin\Debug\netcoreapp3.1\Worker.exe
+D:\Learning\RabbitMqTest\Worker\obj\Debug\netcoreapp3.1\Worker.csprojAssemblyReference.cache
+D:\Learning\RabbitMqTest\Worker\obj\Debug\netcoreapp3.1\Worker.AssemblyInfoInputs.cache
+D:\Learning\RabbitMqTest\Worker\obj\Debug\netcoreapp3.1\Worker.AssemblyInfo.cs
+D:\Learning\RabbitMqTest\Worker\bin\Debug\netcoreapp3.1\Worker.deps.json
+D:\Learning\RabbitMqTest\Worker\bin\Debug\netcoreapp3.1\Worker.runtimeconfig.json
+D:\Learning\RabbitMqTest\Worker\bin\Debug\netcoreapp3.1\Worker.runtimeconfig.dev.json
+D:\Learning\RabbitMqTest\Worker\bin\Debug\netcoreapp3.1\Worker.dll
+D:\Learning\RabbitMqTest\Worker\bin\Debug\netcoreapp3.1\Worker.pdb
+D:\Learning\RabbitMqTest\Worker\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\Learning\RabbitMqTest\Worker\obj\Debug\netcoreapp3.1\Worker.csproj.CopyComplete
+D:\Learning\RabbitMqTest\Worker\obj\Debug\netcoreapp3.1\Worker.dll
+D:\Learning\RabbitMqTest\Worker\obj\Debug\netcoreapp3.1\Worker.pdb
