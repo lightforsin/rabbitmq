@@ -1,5 +1,3 @@
 RabbitMqTest/.vs/
-RabbitMqTest/Receive/bin/
-RabbitMqTest/Receive/obj/
-RabbitMqTest/Send/bin/
-RabbitMqTest/Send/obj/
+bin/
+obj/
